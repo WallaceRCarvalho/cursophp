@@ -7,7 +7,7 @@
     <body>
         <h1>Constantes</h1>
     <?php
-
+    // curso em php inicial
     //estudos de constantes em php
     //define(nome_constante, valor_constante[, igone_caso]
 
