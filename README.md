@@ -3,7 +3,7 @@ Sobre o Curso
 
 Este projeto contém os arquivos, exercícios e exemplos desenvolvidos durante o Curso de PHP. O objetivo do curso é ensinar os conceitos fundamentais da linguagem PHP, voltados para o desenvolvimento web dinâmico e aplicações no lado do servidor.
 
-    ⚠️ Observação: Este projeto está no branch principal master.
+    ⚠️ Observação: Este projeto está no branch principal main.
 
 📚 Conteúdo Abordado
 
